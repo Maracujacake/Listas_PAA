@@ -12,5 +12,4 @@ def buscaRecursiva(vetor, n, indice = 0):
 resultado = buscaRecursiva(vetor, 11)
 print(resultado)
 
-# A complexidade de tempo desta função é O(n), ou seja, proporcional ao tamanho do vetor (pior caso).
-# A complexidade de memória é O(1), visto que independe da entrada, somente de variáveis locais.
+# Complexidade O(n), visto que percorre o vetor por inteiro uma vez buscando o elemento
