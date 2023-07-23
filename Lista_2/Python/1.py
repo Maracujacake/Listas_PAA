@@ -16,5 +16,5 @@ morte = [2010, 2010, 2006, 2010, 2009]
 
 print(anoMaisPopuloso(nascimento, morte))
 
-# a complexidade deste algoritmo é O(n + k), onde k é a diferença entre o menor e o maior valor dos vetores B e D
-# sua complexidade de espaço é O(k), visto que aloca um vetor do tamanho da diferença entre o menor e o maior valor de B e D
+# a complexidade deste algoritmo é O(n + k), onde k é a diferença entre o menor e o maior valor dos vetores B e D.
+# sua complexidade de espaço é O(k), visto que aloca um vetor do tamanho da diferença entre o menor e o maior valor de B e D.
